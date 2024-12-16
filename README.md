@@ -1,6 +1,4 @@
-i# fizzbuzz
-
-## Features
+# fizzbuzz
 
 ### Fizzbuzz
 
